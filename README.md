@@ -11,5 +11,5 @@ Booking:<br>
 http://127.0.0.1:8000/restaurant/booking/tables<br>
 
 superuser:
-username : admin
+username : admin<br>
 password : admin
