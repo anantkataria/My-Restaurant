@@ -9,3 +9,7 @@ http://127.0.0.1:8000/restaurant/menu/1<br>
 
 Booking:<br>
 http://127.0.0.1:8000/restaurant/booking/tables<br>
+
+superuser:
+username : admin
+password : admin
